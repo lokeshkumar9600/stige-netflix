@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stige-netflix/static/css/main.020e2537.chunk.css",
+    "main.js": "/stige-netflix/static/js/main.1c5b436e.chunk.js",
+    "main.js.map": "/stige-netflix/static/js/main.1c5b436e.chunk.js.map",
+    "runtime-main.js": "/stige-netflix/static/js/runtime-main.bf0fa085.js",
+    "runtime-main.js.map": "/stige-netflix/static/js/runtime-main.bf0fa085.js.map",
+    "static/js/2.066fe1f8.chunk.js": "/stige-netflix/static/js/2.066fe1f8.chunk.js",
+    "static/js/2.066fe1f8.chunk.js.map": "/stige-netflix/static/js/2.066fe1f8.chunk.js.map",
+    "index.html": "/stige-netflix/index.html",
+    "precache-manifest.5379b35e3b9a4e74eaa0b06bc5fd354e.js": "/stige-netflix/precache-manifest.5379b35e3b9a4e74eaa0b06bc5fd354e.js",
+    "service-worker.js": "/stige-netflix/service-worker.js",
+    "static/css/main.020e2537.chunk.css.map": "/stige-netflix/static/css/main.020e2537.chunk.css.map",
+    "static/js/2.066fe1f8.chunk.js.LICENSE.txt": "/stige-netflix/static/js/2.066fe1f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0fa085.js",
+    "static/js/2.066fe1f8.chunk.js",
+    "static/css/main.020e2537.chunk.css",
+    "static/js/main.1c5b436e.chunk.js"
+  ]
+}
