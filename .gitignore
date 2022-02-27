@@ -24,3 +24,4 @@ yarn-error.log*
 
 # firbase
 # /src/lib/firebase.prod.js
+.vercel
